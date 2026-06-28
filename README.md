@@ -30,7 +30,7 @@ This project lets users register, log in, and manage their personal expenses thr
 <img width="451" height="303" alt="Screenshot 2026-06-28 at 3 29 15 PM" src="https://github.com/user-attachments/assets/4a3eceae-2755-4578-84ec-a43095940617" />
 
 
-## API Endpoints
+### API Endpoints
 
 ### `POST /auth`
 Handles login, signup, and logout based on the `action` parameter.
