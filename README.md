@@ -27,7 +27,9 @@ This project lets users register, log in, and manage their personal expenses thr
 - **Deployment:** Tested locally (IntelliJ + Smart Tomcat) and on AWS EC2
 
 ## Project Structure
-<img width="458" height="321" alt="Screenshot 2026-06-28 at 3 21 12 PM" src="https://github.com/user-attachments/assets/3c398a03-555c-4396-9aee-e6d4e79a73bf" />
+<img width="451" height="303" alt="Screenshot 2026-06-28 at 3 29 15 PM" src="https://github.com/user-attachments/assets/4a3eceae-2755-4578-84ec-a43095940617" />
+
+
 ## API Endpoints
 
 ### `POST /auth`
