@@ -140,9 +140,7 @@ This project is deployed on **AWS EC2** (ap-south-1 region) running Apache Tomca
 ### Dashboard
 <img width="1440" height="900" alt="Screenshot 2026-06-28 at 3 27 32 PM" src="https://github.com/user-attachments/assets/47cd9350-57f4-4e9f-819c-4df501fb8e63" />
 
-
-
 ## Author
 
-**Mahar Saad**
-GitHub: [@maharsaad](https://github.com/maharsaad)
+Mahar Saad  
+GitHub: https://github.com/maharsaad
